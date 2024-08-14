@@ -79,11 +79,11 @@ section.imagem>p{
     display: inline-block; /*caixa que se adapta ao tamanho do conteudo*/
 }
 #img01{
-    background-image: url(../nbkbka/imagens/background001.jpg);
+    background-image: url(../images/imagens/background001.jpg);
     background-position: right center;
 }
 #img02{
-    background-image: url(../nbkbka/imagens/background002.jpg);
+    background-image: url(../images/imagens/background002.jpg);
     background-position: right center;
     
 }
